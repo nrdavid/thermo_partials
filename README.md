@@ -12,7 +12,8 @@ You may build your environment from the provided `environment.yml`.
 To run use
 `python thermo_partials.py --X S --Y T --Z P`
 which should return
-`********** Jacobian Gymnastics **********
+```
+********** Jacobian Gymnastics **********
 
  o   \ o /  _ o         __|    \ /     |__        o _  \ o /   o
 /|\    |     /\   ___\o   \o    |    o/    o/__   /\     |    /|\
@@ -26,6 +27,7 @@ jacoby ( x = T, y = P ) returns 1
 ------Answer------
 cₚ
 ──
-T `
+T 
+```
 where each flag represents the following variables in the partial derivative:
 $$\left(\frac{\partial X}{\partial Y} \right)_Z$$
