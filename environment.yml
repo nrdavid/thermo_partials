@@ -1,0 +1,8 @@
+name: thermo_partials
+channels:
+  - https://conda.anaconda.org/gurobi
+  - conda-forge
+dependencies:
+  - python
+  - sympy
+prefix: /Users/nrdavid74/opt/anaconda3/envs/thermo_partials
