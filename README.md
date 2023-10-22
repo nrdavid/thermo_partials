@@ -6,11 +6,15 @@ Introduction to Statistical Mechanics and Thermodynamics" (2019).
 
 ## Installation
 You may build your environment from the provided `environment.yml`.
-`conda env create -f environment.yml`
+```
+conda env create -f environment.yml
+```
 
 ## Usage
 To run use
-`python thermo_partials.py --X S --Y T --Z P`
+```
+python thermo_partials.py --X S --Y T --Z P
+```
 which should return
 ```
 ********** Jacobian Gymnastics **********
