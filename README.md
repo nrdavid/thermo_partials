@@ -5,7 +5,7 @@ the standard 4 free energies U, H, F G. This method utilizes the "method of Jaco
 Introduction to Statistical Mechanics and Thermodynamics" (2019).
 
 ## Installation
-You may build your environment from the provided `environment.yml`.
+After cloning the repo, you may build your environment from the provided `environment.yml`.
 ```
 conda env create -f environment.yml
 ```
