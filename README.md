@@ -1,4 +1,4 @@
-# Thermodyanmic Partial Derivative Solver
+# Thermodynamic Partial Derivative Solver
 
 This code allows one to express any thermodynamic partial derivative in terms of measureable materials quantities. This code works for 
 the standard 4 free energies U, H, F G. This method utilizes the "method of Jacobians" outlined from Robert H. Swendsen's "An 
